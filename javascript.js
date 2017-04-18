@@ -45,11 +45,7 @@ var myList=[{"Name" : "Killer Queen", "Part" : 4, "links": ['youtube/kq']},
 
          }
      }
-     var links = columns.findIndex(x => x=='links');
-     console.log(typeof(links));
-     console.log(typeof(2));
-     console.log(2 == links);
-     $("#referenceTable").tablesorter({headers: {links: {sorter: false}}});
+     $("#referenceTable").tablesorter();
  }
 
  // Adds a header row to the table and returns the set of columns.
