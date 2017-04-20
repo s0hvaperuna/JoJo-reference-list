@@ -97,3 +97,4 @@ ENV/
 
 # Tests
 test.py
+characters_backup.json

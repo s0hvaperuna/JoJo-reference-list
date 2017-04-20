@@ -1,0 +1,100 @@
+[
+  {
+    "part": 3,
+    "manga_debut": 1,
+    "anime_debut": 1,
+    "stand": "The World",
+    "id": 2,
+    "comment": "Would be good to get the part 3 debuts if possible",
+    "references": [
+      {
+        "songs": [
+          {
+            "link": "https://www.youtube.com/watch?v=bkysjcs5vFU",
+            "artist": "DIO",
+            "title": "Holy Diver",
+            "id": 4
+          },
+          {
+            "link": "https://www.youtube.com/watch?v=S_xEa7YswrY",
+            "artist": "DIO",
+            "title": "Straight Through the Heart",
+            "id": 5
+          },
+          {
+            "link": "https://www.youtube.com/watch?v=qcWKZTI9OC4",
+            "artist": "DIO",
+            "title": "Rainbow in the Dark",
+            "id": 6
+          }
+        ],
+        "reference_type": "Band",
+        "name": "DIO",
+        "id": 2
+      }
+    ],
+    "name": "DIO",
+    "wiki": "http://jojo.wikia.com/wiki/Dio_Brando"
+  },
+  {
+    "part": 1,
+    "manga_debut": 1,
+    "anime_debut": 1,
+    "stand": "None",
+    "id": 3,
+    "comment": "Part 3 DIO is another entry",
+    "references": [
+      {
+        "songs": [],
+        "reference_type": "Real person",
+        "name": "Marlon Brando",
+        "id": 3
+      },
+      {
+        "songs": [],
+        "reference_type": "Word",
+        "name": "Dio is Italian for god",
+        "id": 4
+      }
+    ],
+    "name": "Dio Brando",
+    "wiki": "http://jojo.wikia.com/wiki/Dio_Brando"
+  },
+  {
+    "part": 1,
+    "manga_debut": 8,
+    "anime_debut": 2,
+    "stand": "None",
+    "id": 4,
+    "comment": "",
+    "references": [
+      {
+        "songs": [
+          {
+            "link": "https://www.youtube.com/watch?v=zpOULjyy-n8",
+            "artist": "REO Speedwagon",
+            "title": "Can't Fight This Feeling",
+            "id": 7
+          },
+          {
+            "link": "https://www.youtube.com/watch?v=wJzNZ1c5C9c",
+            "artist": "REO Speedwagon",
+            "title": "Keep on Loving You",
+            "id": 8
+          },
+          {
+            "link": "https://www.youtube.com/watch?v=M8MlK_bsW8U",
+            "artist": "REO Speedwagon",
+            "title": "In My Dreams",
+            "id": 9
+          }
+        ],
+        "reference_type": "Band",
+        "name": "REO Speedwagon",
+        "id": 5
+      }
+    ],
+    "name": "Robert E. O. Speedwagon",
+    "wiki": "http://jojo.wikia.com/wiki/Robert_E._O._Speedwagon"
+  }
+]
